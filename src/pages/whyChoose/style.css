@@ -1,0 +1,935 @@
+.why-choose {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.why-choose .why-choose-at {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #000000;
+    height: 3080px;
+    width: 1920px;
+}
+
+.why-choose .overlap {
+    background-image: url('../../../dist/img/5-2.png');
+    background-size: 100% 100%;
+    height: 3080px;
+    position: relative;
+}
+
+.why-choose .overlap-group {
+    background-color: #2fcd82;
+    height: 393px;
+    left: 0;
+    position: absolute;
+    top: 2687px;
+    width: 1920px;
+    /* border: 1px solid red; */
+}
+
+.why-choose .copyright {
+    color: #003d6c;
+    font-family: "Gothic A1-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 1445px;
+    letter-spacing: 0.2px;
+    line-height: 22.8px;
+    position: absolute;
+    top: 297px;
+    white-space: nowrap;
+}
+
+.why-choose .vector {
+    height: 37px;
+    left: 1566px;
+    position: absolute;
+    top: 214px;
+    width: 50px;
+}
+
+.why-choose .img {
+    height: 46px;
+    left: 1643px;
+    position: absolute;
+    top: 210px;
+    width: 50px;
+}
+
+.why-choose .group {
+    height: 46px;
+    left: 1720px;
+    position: absolute;
+    top: 210px;
+    width: 48px;
+}
+
+.why-choose .element {
+    height: 82px;
+    left: 233px;
+    position: absolute;
+    top: 67px;
+    width: 140px;
+}
+
+.why-choose .text-wrapper {
+    color: #003d6c;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 20px;
+    font-weight: 900;
+    left: 472px;
+    letter-spacing: 0;
+    line-height: 22.8px;
+    position: absolute;
+    top: 211px;
+    width: 293px;
+}
+
+.why-choose .div {
+    color: #003d6c;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 20px;
+    font-weight: 900;
+    left: 255px;
+    letter-spacing: 0;
+    line-height: 22.8px;
+    position: absolute;
+    top: 211px;
+    width: 110px;
+}
+
+.why-choose .overlap-2 {
+    height: 60px;
+    left: 259px;
+    position: absolute;
+    top: 254px;
+    width: 504px;
+}
+
+.why-choose .flexcontainer {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    height: 60px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 301px;
+}
+
+.why-choose .text {
+    align-self: stretch;
+    color: transparent;
+    font-family: "Gothic A1-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: relative;
+}
+
+.why-choose .span {
+    color: #404040;
+}
+
+.why-choose .text-wrapper-2 {
+    color: #eb652b;
+}
+
+.why-choose .flexcontainer-2 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    height: 60px;
+    left: 213px;
+    position: absolute;
+    top: 0;
+    width: 291px;
+}
+
+.why-choose .span-wrapper {
+    align-self: stretch;
+    color: #404040;
+    font-family: "Gothic A1-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: relative;
+}
+
+.why-choose .text-wrapper-3 {
+    color: #404040;
+    font-family: "Gothic A1-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 26px;
+}
+
+.why-choose .text-wrapper-4 {
+    color: #003d6c;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 20px;
+    font-weight: 900;
+    left: 801px;
+    letter-spacing: 0;
+    line-height: 22.8px;
+    position: absolute;
+    text-align: center;
+    top: 211px;
+    white-space: nowrap;
+}
+
+.why-choose .facebook {
+    height: 50px;
+    left: 1802px;
+    position: absolute;
+    top: 210px;
+    width: 50px;
+}
+
+.why-choose .overlap-3 {
+    height: 812px;
+    left: 0;
+    position: absolute;
+    top: 1786px;
+    width: 1920px;
+    /* border: 1px solid red; */
+}
+
+.why-choose .rectangle {
+    background: linear-gradient(180deg, rgba(47, 205, 130, 0.19) 0%, rgba(217, 217, 217, 0) 100%);
+    height: 342px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+}
+
+.why-choose .p {
+    color: #003d6c;
+    font-family: "Gothic A1-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 1244px;
+    letter-spacing: 0;
+    line-height: 28px;
+    position: absolute;
+    top: 474px;
+    width: 440px;
+}
+
+.why-choose .text-wrapper-5 {
+    color: #003d6c;
+    font-family: "Gothic A1-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 255px;
+    letter-spacing: 0;
+    line-height: 28px;
+    position: absolute;
+    top: 642px;
+    width: 423px;
+}
+
+.why-choose .element-token-is {
+    color: transparent;
+    font-family: "Gothic A1-Bold", Helvetica;
+    font-size: 48px;
+    font-weight: 700;
+    left: 255px;
+    letter-spacing: 0;
+    line-height: 54.7px;
+    position: absolute;
+    top: 92px;
+    width: 707px;
+}
+
+.why-choose .text-wrapper-6 {
+    color: #003d6c;
+}
+
+.why-choose .text-wrapper-7 {
+    color: #eb652b;
+    font-family: "Gothic A1-ExtraBold", Helvetica;
+    font-size: 40px;
+    font-weight: 800;
+    left: 957px;
+    letter-spacing: 0;
+    line-height: 45.6px;
+    position: absolute;
+    top: 433px;
+    width: 187px;
+}
+
+.why-choose .text-wrapper-8 {
+    color: #2fcd82;
+    font-family: "Gothic A1-ExtraBold", Helvetica;
+    font-size: 40px;
+    font-weight: 800;
+    left: 784px;
+    letter-spacing: 0;
+    line-height: 45.6px;
+    position: absolute;
+    top: 599px;
+    width: 230px;
+}
+
+.why-choose .group-2 {
+    height: 120px;
+    left: 287px;
+    position: absolute;
+    top: 469px;
+    width: 120px;
+}
+
+.why-choose .element-2 {
+    height: 552px;
+    left: 256px;
+    position: absolute;
+    top: 259px;
+    width: 1305px;
+    /* border: 1px solid red; */
+}
+
+.why-choose .group-3 {
+    height: 103px;
+    left: 1249px;
+    position: absolute;
+    top: 334px;
+    width: 120px;
+}
+
+.why-choose .rectangle-2 {
+    background-color: #eb652b;
+    height: 8px;
+    left: 255px;
+    position: absolute;
+    top: 49px;
+    width: 118px;
+}
+
+.why-choose .element-logo {
+    height: 128px;
+    left: 240px;
+    position: absolute;
+    top: 158px;
+    width: 200px;
+}
+
+.why-choose .text-wrapper-9 {
+    color: #003d6c;
+    font-family: "Gothic A1-Medium", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    left: 251px;
+    letter-spacing: 0;
+    line-height: 33.6px;
+    position: absolute;
+    top: 543px;
+    width: 797px;
+}
+
+.why-choose .overlap-4 {
+    height: 877px;
+    left: 255px;
+    position: absolute;
+    top: 814px;
+    width: 1440px;
+}
+
+.why-choose .text-wrapper-10 {
+    color: #003d6c;
+    font-family: "Gothic A1-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 552px;
+    letter-spacing: 0;
+    line-height: 28px;
+    position: absolute;
+    top: 175px;
+    width: 419px;
+}
+
+.why-choose .text-wrapper-11 {
+    color: #003d6c;
+    font-family: "Gothic A1-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 1017px;
+    letter-spacing: 0;
+    line-height: 28px;
+    position: absolute;
+    top: 344px;
+    width: 423px;
+}
+
+.why-choose .text-wrapper-12 {
+    color: #003d6c;
+    font-family: "Gothic A1-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 1017px;
+    letter-spacing: 0;
+    line-height: 28px;
+    position: absolute;
+    top: 707px;
+    width: 417px;
+}
+
+.why-choose .text-wrapper-13 {
+    color: #003d6c;
+    font-family: "Gothic A1-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 28px;
+    position: absolute;
+    top: 707px;
+    width: 414px;
+}
+
+.why-choose .element-strictly-follows {
+    color: #003d6c;
+    font-family: "Gothic A1-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 28px;
+    position: absolute;
+    top: 352px;
+    width: 414px;
+}
+
+.why-choose .OBJECTS-wrapper {
+    height: 735px;
+    left: 367px;
+    position: absolute;
+    top: 129px;
+    width: 691px;
+}
+
+.why-choose .OBJECTS {
+    height: 735px;
+    position: relative;
+    width: 711px;
+}
+
+.why-choose .overlap-group-2 {
+    height: 602px;
+    left: 0;
+    position: absolute;
+    top: 133px;
+    width: 691px;
+}
+
+.why-choose .vector-2 {
+    height: 602px;
+    left: 55px;
+    position: absolute;
+    top: 0;
+    width: 602px;
+}
+
+.why-choose .vector-3 {
+    height: 67px;
+    left: 260px;
+    position: absolute;
+    top: 125px;
+    width: 192px;
+}
+
+.why-choose .vector-4 {
+    height: 181px;
+    left: 192px;
+    position: absolute;
+    top: 14px;
+    width: 329px;
+}
+
+.why-choose .vector-5 {
+    height: 227px;
+    left: 361px;
+    position: absolute;
+    top: 360px;
+    width: 266px;
+}
+
+.why-choose .vector-6 {
+    height: 227px;
+    left: 85px;
+    position: absolute;
+    top: 360px;
+    width: 266px;
+}
+
+.why-choose .vector-7 {
+    height: 313px;
+    left: 450px;
+    position: absolute;
+    top: 72px;
+    width: 193px;
+}
+
+.why-choose .vector-8 {
+    height: 313px;
+    left: 69px;
+    position: absolute;
+    top: 72px;
+    width: 193px;
+}
+
+.why-choose .text-wrapper-14 {
+    color: #ffffff;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 24px;
+    font-weight: 900;
+    left: 162px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 101px;
+    width: 41px;
+}
+
+.why-choose .text-wrapper-15 {
+    color: #ffffff;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 24px;
+    font-weight: 900;
+    left: 113px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 390px;
+    width: 41px;
+}
+
+.why-choose .text-wrapper-16 {
+    color: #ffffff;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 24px;
+    font-weight: 900;
+    left: 563px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 390px;
+    width: 41px;
+}
+
+.why-choose .text-wrapper-17 {
+    color: #ffffff;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 24px;
+    font-weight: 900;
+    left: 337px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 17px;
+    width: 35px;
+}
+
+.why-choose .text-wrapper-18 {
+    color: #ffffff;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 32px;
+    font-weight: 900;
+    left: 516px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 101px;
+    width: 41px;
+}
+
+.why-choose .text-wrapper-19 {
+    color: #003d6c;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 32px;
+    font-weight: 900;
+    left: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 48px;
+    width: 61px;
+}
+
+.why-choose .text-wrapper-20 {
+    color: #003d6c;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 32px;
+    font-weight: 900;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 405px;
+    width: 61px;
+}
+
+.why-choose .text-wrapper-21 {
+    color: #003d6c;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 32px;
+    font-weight: 900;
+    left: 650px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 412px;
+    width: 41px;
+}
+
+.why-choose .text-wrapper-22 {
+    color: #003d6c;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 32px;
+    font-weight: 900;
+    left: 650px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 48px;
+    width: 41px;
+}
+
+.why-choose .text-wrapper-23 {
+    color: #003d6c;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 32px;
+    font-weight: 900;
+    left: 186px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 74px;
+}
+
+.why-choose .element-to-fiat-currency {
+    color: #ffffff;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 24px;
+    font-weight: 900;
+    left: 629px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 328px;
+    width: 180px;
+}
+
+.why-choose .text-wrapper-24 {
+    color: #ffffff;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 24px;
+    font-weight: 900;
+    left: 858px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 489px;
+    white-space: nowrap;
+    width: 112px;
+}
+
+.why-choose .text-wrapper-25 {
+    color: #ffffff;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 24px;
+    font-weight: 900;
+    left: 759px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 690px;
+    width: 181px;
+}
+
+.why-choose .top-notch-customer {
+    color: #ffffff;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 24px;
+    font-weight: 900;
+    left: 542px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 683px;
+    width: 217px;
+}
+
+.why-choose .meet-regulatory {
+    color: #ffffff;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 24px;
+    font-weight: 900;
+    left: 414px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: right;
+    top: 455px;
+    width: 200px;
+}
+
+.why-choose .element-at-logo {
+    height: 103px;
+    left: 641px;
+    position: absolute;
+    top: 512px;
+    width: 162px;
+}
+
+.why-choose .element-is-an-advanced {
+    color: transparent;
+    font-family: "Gothic A1-Bold", Helvetica;
+    font-size: 48px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 54.7px;
+    position: absolute;
+    top: 0;
+    width: 1209px;
+}
+
+.why-choose .overlap-5 {
+    height: 189px;
+    left: 251px;
+    position: absolute;
+    top: 317px;
+    width: 708px;
+}
+
+.why-choose .text-wrapper-26 {
+    color: #003d6c;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 64px;
+    font-weight: 900;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 73px;
+    position: absolute;
+    top: 0;
+    width: 708px;
+}
+
+.why-choose .rectangle-3 {
+    background-color: #2fcd82;
+    border-radius: 14px;
+    height: 80px;
+    left: 0;
+    position: absolute;
+    top: 109px;
+    width: 235px;
+}
+
+.why-choose .rectangle-4 {
+    background-color: #eb652b;
+    border-radius: 14px;
+    height: 80px;
+    left: 259px;
+    position: absolute;
+    top: 109px;
+    width: 309px;
+}
+
+.why-choose .text-wrapper-27 {
+    color: #ffffff;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 32px;
+    font-weight: 900;
+    left: 13px;
+    letter-spacing: 0;
+    line-height: 36.5px;
+    position: absolute;
+    text-align: center;
+    top: 130px;
+    width: 209px;
+}
+
+.why-choose .text-wrapper-28 {
+    color: #ffffff;
+    font-family: "Gothic A1-Black", Helvetica;
+    font-size: 32px;
+    font-weight: 900;
+    left: 290px;
+    letter-spacing: 0;
+    line-height: 36.5px;
+    position: absolute;
+    text-align: center;
+    top: 130px;
+    white-space: nowrap;
+}
+
+.why-choose .element-3 {
+    height: 558px;
+    left: 1064px;
+    position: absolute;
+    top: 101px;
+    width: 534px;
+}
+
+.why-choose .rectangle-5 {
+    background-color: #eb652b;
+    height: 8px;
+    left: 255px;
+    position: absolute;
+    top: 768px;
+    width: 118px;
+}
+
+.why-choose .about-team-and {
+    color: #003d6c;
+    font-family: "Gothic A1-ExtraBold", Helvetica;
+    font-size: 20px;
+    font-weight: 800;
+    left: 205px;
+    letter-spacing: 0;
+    line-height: 22.8px;
+    position: absolute;
+    top: 64px;
+    white-space: nowrap;
+    width: 1180px;
+}
+
+.why-choose .element-logo-2 {
+    height: 63px;
+    left: 48px;
+    position: absolute;
+    top: 38px;
+    width: 98px;
+}
+
+.why-choose .list {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0px 0px;
+    height: 80px;
+    left: 1607px;
+    position: absolute;
+    top: 23px;
+}
+
+.why-choose .item-margin {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    min-height: 80px;
+    padding: 0px 12px 0px 0px;
+    position: relative;
+}
+
+.why-choose .item {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    justify-content: center;
+    min-height: 80px;
+    position: relative;
+}
+
+.why-choose .link {
+    align-items: center;
+    border-radius: 400px;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 0.04px;
+    justify-content: center;
+    padding: 11px 20px;
+    position: relative;
+}
+
+.why-choose .div-wrapper {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    position: relative;
+}
+
+.why-choose .text-wrapper-29 {
+    color: var(--wwwquickencomwoodsmoke);
+    font-family: "Gothic A1-Regular", Helvetica;
+    font-size: 16.1px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.why-choose .after-margin {
+    align-self: stretch;
+    object-fit: cover;
+    position: relative;
+    width: 17px;
+}
+
+.why-choose .button-wrapper {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    height: 80px;
+    justify-content: center;
+    position: relative;
+}
+
+.why-choose .button {
+    all: unset;
+    align-items: flex-start;
+    background-color: #2fcd82;
+    border-radius: 400px;
+    box-sizing: border-box;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    padding: 1px;
+    position: relative;
+}
+
+.why-choose .link-2 {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    padding: 12px 24px;
+    position: relative;
+    width: 100%;
+}
+
+.why-choose .text-wrapper-30 {
+    color: var(--wwwquickencomnero);
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 15.8px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+}
